@@ -1,5 +1,7 @@
 # SmartThings Oven Control
 
+The writeup: [nickcupo.com/projects/smartthings-oven-control](https://nickcupo.com/projects/smartthings-oven-control).
+
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/nrc2358/smartthings_oven_control)](https://github.com/nrc2358/smartthings_oven_control/releases)
 [![License: MIT](https://img.shields.io/github/license/nrc2358/smartthings_oven_control)](https://github.com/nrc2358/smartthings_oven_control/blob/main/LICENSE)
