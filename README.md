@@ -10,7 +10,7 @@ A Home Assistant custom integration for controlling Samsung SmartThings ovens (m
 
 > **Maintained fork.** This is a fork of [gwyntel/smartthings_oven_control](https://github.com/gwyntel/smartthings_oven_control), inactive since September 2025. It carries the fix for the expiring SmartThings access token ([upstream PR #1](https://github.com/gwyntel/smartthings_oven_control/pull/1), unmerged). Original work by @gwyntel under the MIT license.
 
-**Install via HACS:** HACS → Integrations → ⋮ → Custom repositories → add `https://github.com/nrc2358/smartthings_oven_control` (type: Integration).
+**Install via HACS:** HACS → Integrations → ⋮ → Custom repositories → add `https://github.com/nickcupo/smartthings_oven_control` (type: Integration).
 
 ## 🚀 Features
 
