@@ -3,8 +3,8 @@
 The writeup: [nickcupo.com/projects/smartthings-oven-control](https://nickcupo.com/projects/smartthings-oven-control).
 
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/v/release/nrc2358/smartthings_oven_control)](https://github.com/nrc2358/smartthings_oven_control/releases)
-[![License: MIT](https://img.shields.io/github/license/nrc2358/smartthings_oven_control)](https://github.com/nrc2358/smartthings_oven_control/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/nickcupo/smartthings_oven_control)](https://github.com/nickcupo/smartthings_oven_control/releases)
+[![License: MIT](https://img.shields.io/github/license/nickcupo/smartthings_oven_control)](https://github.com/nickcupo/smartthings_oven_control/blob/main/LICENSE)
 
 A Home Assistant custom integration for controlling Samsung SmartThings ovens (model DA-KS-RANGE-0101X) using REST API calls with tokens from HA's SmartThings integration.
 
@@ -36,7 +36,7 @@ A Home Assistant custom integration for controlling Samsung SmartThings ovens (m
 1. Open HACS in Home Assistant
 2. Go to "Integrations"
 3. Click the three dots menu and select "Custom repositories"
-4. Add `https://github.com/nrc2358/smartthings_oven_control` with category "Integration"
+4. Add `https://github.com/nickcupo/smartthings_oven_control` with category "Integration"
 5. Search for "SmartThings Oven Control" and install
 6. Restart Home Assistant
 7. Go to Settings > Devices & Services > Add Integration

@@ -6,13 +6,13 @@
         "application_credentials"
     ],
     "config_flow": true,
-    "documentation": "https://github.com/nrc2358/smartthings_oven_control/blob/main/README.md",
-    "issue_tracker": "https://github.com/nrc2358/smartthings_oven_control/issues",
-    "version": "1.1.0",
+    "documentation": "https://github.com/nickcupo/smartthings_oven_control/blob/main/README.md",
+    "issue_tracker": "https://github.com/nickcupo/smartthings_oven_control/issues",
+    "version": "1.1.1",
     "codeowners": [
-        "@nrc2358"
+        "@nickcupo"
     ],
     "iot_class": "cloud_polling",
     "requirements": [],
-    "homeassistant": "2024.1.0"
+    "homeassistant": "2025.3.0"
 }
